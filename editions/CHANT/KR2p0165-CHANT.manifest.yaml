@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0165/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0165/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 昔者君老
+  identifiers:
+    krp: KR2p0165
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0165.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0165_001-CHANT.yaml, hash: 'sha256:da25925e853904e2bd1c8a2aef601f059f2a38533beda155e8c8bdf575c272ad'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0165_001-CHANT.markers.yaml, hash: 'sha256:3801ae74e9eabf7d667a3e33340031626ce621163f37a42c00e79efe4382da70'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0165_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 173
+  label: 楚竹書八昔者君老
+  type: section
+  level: 1
+hash: sha256:8918c4dc06cd1065162191e0fbd6436bfddcb5e7235dee0cb994c0d3f3457726

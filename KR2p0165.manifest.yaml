@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR2p0165/v1
+canonical_location: https://kanripo.org/bkk/KR2p0165/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 昔者君老
+  identifiers:
+    krp: KR2p0165
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0165.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0165_001.yaml, hash: 'sha256:55adf8a70188817b5af4f2024682505270a251a574ac605915c271c769fc9974'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0165_001.markers.yaml, hash: 'sha256:fa4678a1f8a97c203df7721d350e330972c7c411d7ed7f01742ea006ae44440f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0165_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 173
+  label: 楚竹書八昔者君老
+  type: section
+  level: 1
+hash: sha256:d4d2832eeb5511e204c6ad0b183145c3401a57c2db6ae7a85373135d69ccdf44
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
