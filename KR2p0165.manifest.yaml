@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0165_001.yaml, hash: 'sha256:55adf8a70188817b5af4f2024682505270a251a574ac605915c271c769fc9974'}
+  - {seq: 1, filename: KR2p0165_001.yaml, hash: 'sha256:da25925e853904e2bd1c8a2aef601f059f2a38533beda155e8c8bdf575c272ad'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0165_001.markers.yaml, hash: 'sha256:fa4678a1f8a97c203df7721d350e330972c7c411d7ed7f01742ea006ae44440f'}
+  - {seq: 1, role: markers, filename: assets/KR2p0165_001.markers.yaml, hash: 'sha256:470deb55f00a65719e7502a2df38fdd8195b3bc100c6b02c8fa52cfc57f1a905'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 楚竹書八昔者君老
   type: section
   level: 1
-hash: sha256:d4d2832eeb5511e204c6ad0b183145c3401a57c2db6ae7a85373135d69ccdf44
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e7d700ec0b8ca011cbab9b0d7a4543db1e0faeb7067653229d8b792063d49085
