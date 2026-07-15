@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0165/v1
 canonical_location: https://kanripo.org/bkk/KR2p0165/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 昔者君老
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0165_001.yaml, hash: 'sha256:da25925e853904e2bd1c8a2aef601f059f2a38533beda155e8c8bdf575c272ad'}
+  - {seq: 1, filename: KR2p0165_001.yaml, hash: 'sha256:55adf8a70188817b5af4f2024682505270a251a574ac605915c271c769fc9974'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0165_001.markers.yaml, hash: 'sha256:470deb55f00a65719e7502a2df38fdd8195b3bc100c6b02c8fa52cfc57f1a905'}
+  - {seq: 1, role: markers, filename: assets/KR2p0165_001.markers.yaml, hash: 'sha256:dbc1cd1efdac9cbc2c004dd53ca5544434b3209173ed44e5ef32a5955367e04a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 楚竹書八昔者君老
   type: section
   level: 1
-hash: sha256:e7d700ec0b8ca011cbab9b0d7a4543db1e0faeb7067653229d8b792063d49085
+hash: sha256:f4b02e886cafc9075677b380ed7050521160d6e7be308598e702590368e48c60
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
